@@ -1,5 +1,5 @@
 Flask
 Flask-RESTful
 Flask-JWT
-Flask-SQLAchemy
+Flask-SQLAlchemy
 uwsgi
